@@ -1,0 +1,6 @@
+vk_api==11.9.9
+python3-anticaptcha==1.7.1
+requests==2.31.0
+python-dotenv==1.0.1
+asyncio==3.4.3
+pyppeteer==1.0.2
